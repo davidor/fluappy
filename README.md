@@ -8,6 +8,8 @@ Fluappy is a clone of the popular Flappy Bird game developed in Lua using the
 You will need to install the LÖVE framework. Check the instructions for your
 platform [here](https://love2d.org/wiki/Getting_Started).
 
+![screenshot](screenshot.jpg)
+
 ## Credits
 
 Although the current codebase is very different, the first version of this
